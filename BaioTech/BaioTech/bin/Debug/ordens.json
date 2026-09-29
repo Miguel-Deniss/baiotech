@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "Cliente": {
+      "Email": "miguel.denisovas@gmail.com",
+      "Nome": "Miguel",
+      "Telefone": "1234567890"
+    },
+    "Aparelho": {
+      "Id": 1,
+      "Tipo": "Celular",
+      "Marca": "apple",
+      "Modelo": "18 Pro Max",
+      "NumeroSerie": "1A",
+      "Problema": "Tela Quebrada"
+    },
+    "Tecnico": null,
+    "Diagnostico": "Carregador",
+    "Status": "Finalizada",
+    "MaoDeObra": 199.0,
+    "Desconto": 19.0,
+    "Servicos": [
+      {
+        "Nome": "Tela Quebrada ",
+        "Valor": 400.0
+      }
+    ],
+    "Pecas": [
+      {
+        "Nome": "Tela",
+        "Valor": 200.0
+      }
+    ]
+  }
+]

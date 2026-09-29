@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "Tipo": "Celular",
+    "Marca": "apple",
+    "Modelo": "18 Pro Max",
+    "NumeroSerie": "1A",
+    "Problema": "Tela Quebrada"
+  }
+]

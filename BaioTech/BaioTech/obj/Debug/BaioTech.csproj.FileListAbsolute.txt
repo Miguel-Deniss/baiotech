@@ -1,0 +1,10 @@
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\obj\Debug\BaioTech.csproj.AssemblyReference.cache
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\obj\Debug\BaioTech.csproj.CoreCompileInputs.cache
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\bin\Debug\BaioTech.exe.config
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\bin\Debug\BaioTech.exe
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\bin\Debug\BaioTech.pdb
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\bin\Debug\Newtonsoft.Json.xml
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\obj\Debug\BaioTech.csproj.Up2Date
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\obj\Debug\BaioTech.exe
+C:\Users\50379785803\source\repos\BaioTech\BaioTech\obj\Debug\BaioTech.pdb
